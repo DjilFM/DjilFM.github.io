@@ -1,7 +1,7 @@
 # Site
 name: "DjilTech"
 title: "Djilali SAHRAOUI"
-description: "Blogs Tech (Cloud, Devops, Data....)"
+description: "Djilali SAHRAOUI Tech Blog's(Cloud, Devops, Data....)"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
 baseurl: ''
@@ -20,7 +20,7 @@ authors:
     email: wowthemesnet@gmail.com
     web: https://www.djiltech.fr
     twitter: https://twitter.com/djiltech
-    description: "Djilali SAHRAOUI Solutions Architect"
+    description: "Solutions Architect"
   john:
     name: John
     display_name: John    
